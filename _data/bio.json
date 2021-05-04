@@ -128,7 +128,7 @@
       ]
     }
   ],
-  "Awards": [
+  {"Awards": [
     {
       "title": "Presidential Scholarship",
       "date": "2017-present",
@@ -138,7 +138,7 @@
      
     }
   ],
-  "references": [
+{"references": [
     {
       "name": "Available upon request",
       "": ""
